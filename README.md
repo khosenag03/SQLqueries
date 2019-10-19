@@ -1,2 +1,2 @@
 # SQLqueries
-Demonstration of my understanding and examples of my most complex queries.
+This respository consists queries I've run in SQL. 
